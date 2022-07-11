@@ -14,3 +14,4 @@ Can't also promise it's any good, lol.
 
 ## Using
 1. Send GET request to docker IP
+2. You can check how your macts look with the view.html

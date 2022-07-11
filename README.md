@@ -1,4 +1,4 @@
-# Akamai AI Mact Generator
+# A*amai AI Mact Generator
 
 A somewhat working mact gen.<br/>
 Can't also promise it's any good, lol.
